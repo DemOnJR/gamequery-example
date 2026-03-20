@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="120" y="120" width="1040" height="480" rx="24" fill="#0F172A" fill-opacity="0.8" stroke="#93C5FD" stroke-opacity="0.5"/>
+  <text x="640" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#E2E8F0">GameQuery Example</text>
+  <text x="640" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#93C5FD">Replace this cover with your real product artwork</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <rect width="1280" height="720" fill="#111827"/>
+  <rect x="70" y="70" width="1140" height="580" rx="22" fill="#0F172A" stroke="#374151"/>
+  <rect x="120" y="130" width="460" height="90" rx="12" fill="#1F2937"/>
+  <rect x="120" y="250" width="460" height="90" rx="12" fill="#1F2937"/>
+  <rect x="120" y="370" width="460" height="90" rx="12" fill="#1F2937"/>
+  <rect x="120" y="490" width="460" height="90" rx="12" fill="#1F2937"/>
+  <rect x="640" y="130" width="520" height="450" rx="16" fill="#0B3B8F" fill-opacity="0.25" stroke="#60A5FA" stroke-opacity="0.5"/>
+  <text x="660" y="190" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#DBEAFE">Settings & Integrations</text>
+</svg>

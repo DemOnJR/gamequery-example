@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <rect width="1280" height="720" fill="#020617"/>
+  <rect x="52" y="52" width="1176" height="616" rx="20" fill="#0F172A" stroke="#334155"/>
+  <rect x="90" y="100" width="240" height="520" rx="14" fill="#111827" stroke="#1F2937"/>
+  <rect x="360" y="100" width="828" height="160" rx="14" fill="#1E293B"/>
+  <rect x="360" y="280" width="396" height="160" rx="14" fill="#0B3B8F"/>
+  <rect x="792" y="280" width="396" height="160" rx="14" fill="#14532D"/>
+  <rect x="360" y="460" width="828" height="160" rx="14" fill="#1E293B"/>
+  <text x="398" y="162" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#E2E8F0">Dashboard Overview</text>
+</svg>

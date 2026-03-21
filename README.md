@@ -26,6 +26,14 @@ The first meaningful paragraph is used by GameQuery to auto-fill the marketplace
 - Platform (e.g., Discord, WordPress, IPB, phpBB)
 - Primary language used (JS, PHP, or Python)
 
+## Preview URL
+
+- https://your-preview-url.example.com
+
+## System Requirements
+
+- Add one requirement per line (e.g., WordPress 6.0+, PHP 7.4+, Node.js 18+)
+
 ## Quick Start
 
 ```bash
@@ -37,6 +45,8 @@ npm run dev
 
 - Public repository (not archived)
 - `README.md` present and descriptive
+- Preview URL included in `README.md`
+- System requirements listed in `README.md`
 - `CHANGELOG.md` present with version sections
 - SPDX license detected (`LICENSE` file)
 - Images included in `README.md` (recommended for cover/gallery import)

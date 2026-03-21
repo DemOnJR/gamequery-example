@@ -23,10 +23,8 @@ The first meaningful paragraph is used by GameQuery to auto-fill the marketplace
 
 ## Built With
 
-- TypeScript
-- React
-- Node.js
-- PostgreSQL
+- Platform (e.g., Discord, WordPress, IPB, phpBB)
+- Primary language used (JS, PHP, or Python)
 
 ## Quick Start
 
